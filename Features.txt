@@ -1,0 +1,73 @@
+﻿LedMatrixFrame
+
+wanted features
+
+Time function
+
+Capacitive buttons
+    button layout 
+        4 arrows, 
+        center = enter, 
+        left = setup, 
+        right = return. 
+
+IR remote control (use 21 button remote)
+
+UI
+    Setup button pressed (password?)
+        overall settings
+            pause/play animations/ show pause on main screen. 
+            volume level: 0-5?
+            timer: 0.0-10.0 minutes (back to main screen(time))
+            matrix brightness: 1-10 (150-255)
+            NEO pixel brightness: 1-10 (150-255)
+            Wifi setup
+                select/change network
+                network password
+            Time settings
+                Animation frequency for time (intervals?)
+                12H/24H
+            Weather settings
+                Weather zip code
+		F/C
+                freeze warning time/off
+
+    Always show time. Back to time after timer.
+        Dim time after timer
+        brighten on any button push. 
+        Animate time
+            Mario
+                	
+	
+    Left/Right arrow pressed
+        scroll through displays
+            Time 
+                check time accuracy daily/hourly/monthly?
+				
+            weather
+                up arrow 
+                    +1 hour into future until 48
+                    down arrow 
+                        -1 hour into future until 0
+                down arrow
+                    +10 days into future -1 each press after
+                    up arrow
+			  -1 day into future until 0
+		    remote
+		        hours into future if numbers are pressed
+		    	  days into future if 0/10+ button is pressed first 
+
+            ETA to dad home
+                if no eta
+                    animation of working
+                if eta
+                    animation of driving with ETA
+
+	    animations
+		?
+			
+		
+		
+
+
+
